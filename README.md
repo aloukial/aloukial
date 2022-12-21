@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Antti
+- 👀 I’m interested in data managemenet, data products and data mesh. 
+- 🌱 I’m currently learning developing production grade API's 
+- 💞️ I’m looking to collaborate on data product developer experience
+- 📫 Send me a Teams message or Slack or email
